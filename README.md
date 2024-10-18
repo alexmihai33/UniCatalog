@@ -1,6 +1,6 @@
 !!! The file UniCatalog_database.sql contains a script that creates the exact database I used.
 
-UniCatalog is an electronic catalog, made with .net, that follows the following modules:
+UniCatalog is an electronic catalog, made with windows forms, that follows the following modules:
 
 1. Education Cycles:
      Usually, facultees offer license and masters as education cycles. The application can manage theese (adding, deleting or viewing them)
